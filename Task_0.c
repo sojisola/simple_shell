@@ -1,4 +1,4 @@
-#include <stdlib>
+#include <stdlib.h>
 /**
 *main- Main function
 *sum: Sum numbers

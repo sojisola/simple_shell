@@ -39,7 +39,6 @@ build_history_list(info, *buf, info->histcount++);
 *len = r;
 info->cmd_buf = buf;
 }
-
 }
 }
 return (r);
