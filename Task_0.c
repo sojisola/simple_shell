@@ -1,4 +1,6 @@
 #include <stdlib.h>
+#include <stdio.h>
+
 /**
 *main- Main function
 *sum: Sum numbers
@@ -8,6 +10,6 @@ int main(void)
 {
 int sum;
 sum = 1 + 2;
-printf("%d/n", sum);
+print_d("%d/n", sum);
 return (0);
 }
